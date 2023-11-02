@@ -12,15 +12,16 @@ Si vous souhaitez proposer votre traduction pour qu'elle soit présente dans le 
 5. Faite un clic droit sur ``StarCitizen - Traduction FR.ps1`` puis séléctionné une nouvelle fois ``Exécuter avec PowerShell``, vous pourrez ensuite télécharger la traduction que vous souhaitez.
 6. Lancez votre jeux et fly safe citoyen(ne) !
 
- ⚠️ *Notez qu'il est vivement recommandé de refaire la manipulation à partir de l'étape* ***3*** *pour être sûr d'être à jour, le script peut proposer de nouvelles traductions et les traductions elles même peuvent être mises à jour par leurs créateurs*
+ ⚠️ *Notez qu'il est vivement recommandé de refaire la manipulation à partir de l'étape* ***3*** *pour être sûr d'être à jour, le script peut proposer de nouvelles traductions et les traductions elles même peuvent être mises à jour par leurs créateurs* ⚠️
 
 ## Supprimer la traduction
 1. Allez dans votre dossier ``StarCitizen`` Le chemin par défaut est: ``C:\Program Files\Roberts Space Industries\StarCitizen``.
-2. Allez ensuite dans le dossier de la ou les version que vous avez séléctionné (Par exemple LIVE)
-3. Supprimé le fichier ``user.cfg``
-4. Allez ensuite dans le dossier ``Data``
-5. Supprimer le dossier ``Localization``
-6. Lancez votre jeux, il devrais être a nouveau dans son état d'origine, fly safe citoyen(ne).
+2. (Falcultatif) Supprimez les script ``StarCitizen - Traduction FR.ps1`` et ``Update.ps1`` ℹ️ (Note: *Vous pouvez garder les script dans votre dossier ``StarCitizen si vous le souhaiter, cette mannipulation à uniquement pour but de libéré de l'espace disque si jamais vous ne souhaité plus du tout les utilisé, si cette étape est sauté la traduction seras quand même supprimer en suivant les étapes suivante, il est aussi a noté qu'il n'est pas nécessaire de supprimé la traduction pour la mettre à jour, relancé le script est sufisant pour cela.*) ℹ️
+3. Allez ensuite dans le dossier de la ou les version que vous avez séléctionné (Par exemple LIVE)
+4. Supprimé le fichier ``user.cfg``
+5. Allez ensuite dans le dossier ``Data``
+6. Supprimer le dossier ``Localization``
+7. Lancez votre jeux, il devrais être a nouveau dans son état d'origine, fly safe citoyen(ne).
 
 ## Explication des scripts
 - Le script ``StarCitizen - Traduction FR.ps1`` est le script principal, c'est celui-ci que vous devrez exécuter pour télécharger les traductions.
