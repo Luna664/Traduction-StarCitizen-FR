@@ -21,13 +21,13 @@ function Menu {
     Write-Host "Traduction de SPEEDOU:"
     Write-Host "1. Traduire la version Live"
     Write-Host "2. Traduire la version PTU"
-    Write-Host "3. Traduire la version Tech-Preview"
+    Write-Host "3. Traduire la version Tech-Preview (Expérimental)"
     Write-Host "4. Aidé à la traduction"
     Write-Host
     Write-Host "Traduction du Cirque Lisoir"
     Write-Host "5. Traduire la version Live"
     Write-Host "6. Traduire la version PTU"
-    Write-Host "7. Traduire la version Tech-Preview"
+    Write-Host "7. Traduire la version Tech-Preview (Expérimental)"
     Write-Host "8. Aidé à la traduction"
     Write-Host
     Write-Host "Menu:"
