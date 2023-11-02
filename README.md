@@ -14,7 +14,7 @@ Si vous souhaitez proposer votre traduction pour qu'elle soit présente dans le 
 
  ⚠️ *Notez qu'il est vivement recommandé de refaire la manipulation à partir de l'étape* ***3*** *pour être sûr d'être à jour, le script peut proposer de nouvelles traductions et les traductions elles même peuvent être mises à jour par leurs créateurs*
 
-##supprimer la traduction
+## supprimer la traduction
 1. Allez dans votre dossier ``StarCitizen`` Le chemin par défaut est: ``C:\Program Files\Roberts Space Industries\StarCitizen``.
 2. Allez ensuite dans le dossier de la ou les version que vous avez séléctionné (Par exemple LIVE)
 3. Supprimé le fichier ``user.cfg``
