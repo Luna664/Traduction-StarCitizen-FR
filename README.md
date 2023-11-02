@@ -1,5 +1,5 @@
 # Traduction-StarCitizen-FR
-Se repos a pour but d'héberger un script PowerShell pour télécharger la plupart des traductions françaises connues pour Star Citizen, pour le moment seule la traduction de SPEEDOU et du Cirque Lisoir sont disponibles, d'autres traductions seront rajoutées dans le temps.
+Se repos a pour but d'héberger un script PowerShell pour télécharger la plupart des traductions françaises connues pour Star Citizen, pour le moment seule la traduction de SPEEDOU et du Cirque Lisoir sont disponibles, d'autres traductions seront ajoutées dans le temps.
 
 
 Si vous souhaitez proposer votre traduction pour qu'elle soit présente dans le script, n'hésitez pas à me contacter via Discord (Luna664) ou de faire un ticket ici: https://github.com/Luna664/Traduction-StarCitizen-FR/issues.
