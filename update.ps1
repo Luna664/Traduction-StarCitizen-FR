@@ -25,7 +25,7 @@ while ($true) {
         '1' {
             Clear-Host
             Write-Host "Téléchargement du script en cours..."
-            Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Luna664/Traduction-StarCitizen-FR/main/install_fr.ps1" -OutFile "$ScriptDir\install_fr.ps1"
+            Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Luna664/Traduction-StarCitizen-FR/main/StarCitizen%20-%20Traduction%20FR.ps1"
 
             Write-Host "Téléchargement du script terminé."
             Read-Host "Appuyez sur Entrée pour continuer..."
