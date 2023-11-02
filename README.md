@@ -4,7 +4,7 @@ Se repos a pour but d'héberger un script PowerShell pour télécharger la plupa
 
 Si vous souhaitez proposer votre traduction pour qu'elle soit présente dans le script, n'hésitez pas à me contacter via Discord (Luna664) ou de faire un ticket ici: https://github.com/Luna664/Traduction-StarCitizen-FR/issues.
 
-## Instalation du script
+## installation du script
 1. Télécharger le script ``Update.ps1`` ici: https://github.com/Luna664/Traduction-StarCitizen-FR/releases .
 2. Déplacer le script dans le dossier ``StarCitizen`` l'emplacement par défaut est: ``C:\Program Files\Roberts Space Industries\StarCitizen``.
 3. Faite un clic droit sur le script ``Update.ps1`` et séléctionné ``Exécuter avec PowerShell``.
